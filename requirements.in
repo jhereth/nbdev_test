@@ -1,0 +1,4 @@
+fastai[dev]
+jupyterlab
+nbdev
+pip-tools
