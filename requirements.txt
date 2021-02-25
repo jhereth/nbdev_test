@@ -567,6 +567,8 @@ threadpoolctl==2.1.0
     # via scikit-learn
 tifffile==2021.2.1
     # via scikit-image
+togglpy==0.1.1
+    # via -r requirements.in
 tokenizers==0.10.1
     # via transformers
 torch==1.7.1
